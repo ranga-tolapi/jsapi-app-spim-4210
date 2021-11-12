@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noEmit": true,
+    "jsx": "react",
+    "jsxFactory": "tsx",
+    "experimentalDecorators": true
+  },
+  "include": [
+    "src/**/*",
+  ]
+}
